@@ -1,0 +1,9 @@
+﻿---
+BasedOnStyle: Microsoft
+AccessModifierOffset: '-4'
+AlwaysBreakTemplateDeclarations: 'Yes'
+ColumnLimit: '100'
+PointerAlignment: Left
+TabWidth: '4'
+
+...
