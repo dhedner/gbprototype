@@ -36,7 +36,7 @@
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8D0F6F5E-016B-4FA8-B1C0-FA65BF6791B0}</ProjectGuid>
+    <ProjectGuid>{D91C8626-F073-4A2F-B203-563556082E89}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
