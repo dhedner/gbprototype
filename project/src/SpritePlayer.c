@@ -1,5 +1,6 @@
 #include "Banks/SetAutoBank.h"
 #include "ZGBMain.h" // For access to all sprite types
+#include "types.h"
 
 #include "Keys.h"
 #include "SpriteManager.h"
