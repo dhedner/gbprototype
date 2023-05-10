@@ -13,6 +13,9 @@
     <ClCompile Include="src\ZGBMain.c">
       <Filter>System</Filter>
     </ClCompile>
+    <ClCompile Include="src\StateGame2.c">
+      <Filter>States</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="src\Makefile" />
