@@ -16,6 +16,9 @@
     <ClCompile Include="src\StateGame2.c">
       <Filter>States</Filter>
     </ClCompile>
+    <ClCompile Include="src\SpriteBlock.c">
+      <Filter>Sprites</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="src\Makefile" />
@@ -34,6 +37,12 @@
   <ItemGroup>
     <ClInclude Include="include\ZGBMain.h">
       <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SpritePlayer.h">
+      <Filter>Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SpriteBlock.h">
+      <Filter>Sprites</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
